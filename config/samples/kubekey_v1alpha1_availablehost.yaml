@@ -1,0 +1,7 @@
+apiVersion: kubekey.kubesphere.io/v1alpha1
+kind: AvailableHost
+metadata:
+  name: availablehost-sample
+spec:
+  # Add fields here
+  foo: bar
